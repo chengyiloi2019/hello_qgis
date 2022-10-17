@@ -3,16 +3,14 @@ title: "Hello, Quarto"
 format: html
 editor: visual
 ---
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hello world, welcome to our GIS project website!!!!
 
 ```{r}
+#| label: load-packages
+#| include: false
 library(tidyverse)
 library(palmerpenguins)
 ```
-
 
 ## Meet Quarto
 

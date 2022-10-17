@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Hello, Quarto",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Hello world, welcome to our GIS project website!"
   },
   {
     "objectID": "about.html",
@@ -26,5 +26,19 @@
     "title": "Hello, Quarto",
     "section": "Meet the penguins",
     "text": "Meet the penguins\n\nThe penguins data from the palmerpenguins package contains size measurements for 344 penguins from three species observed on three islands in the Palmer Archipelago, Antarctica.\nThe plot below shows the relationship between flipper and bill lengths of these penguins."
+  },
+  {
+    "objectID": "index.html#meet-quartooooooo",
+    "href": "index.html#meet-quartooooooo",
+    "title": "Hello, Quarto",
+    "section": "Meet Quartooooooo",
+    "text": "Meet Quartooooooo\nQuarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "index.html#meet-quartooooooobbb",
+    "href": "index.html#meet-quartooooooobbb",
+    "title": "Hello, Quarto",
+    "section": "Meet Quartooooooobbb",
+    "text": "Meet Quartooooooobbb\nQuarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
   }
 ]
