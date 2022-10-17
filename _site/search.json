@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hello, Quarto",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#meet-quarto",
+    "href": "index.html#meet-quarto",
+    "title": "Hello, Quarto",
+    "section": "Meet Quarto",
+    "text": "Meet Quarto\nQuarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "index.html#meet-the-penguins",
+    "href": "index.html#meet-the-penguins",
+    "title": "Hello, Quarto",
+    "section": "Meet the penguins",
+    "text": "Meet the penguins\n\nThe penguins data from the palmerpenguins package contains size measurements for 344 penguins from three species observed on three islands in the Palmer Archipelago, Antarctica.\nThe plot below shows the relationship between flipper and bill lengths of these penguins."
+  }
+]
