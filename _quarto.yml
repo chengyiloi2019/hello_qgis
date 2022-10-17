@@ -17,7 +17,7 @@ website:
     right: 
       - href: index.html
         text: Home
-      - about.html
+      - about.qmd
 
 format:
   html:
