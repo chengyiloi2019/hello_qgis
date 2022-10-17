@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Hello, Quarto",
     "section": "",
-    "text": "Hello world, welcome to our GIS project website!"
+    "text": "Hello world, welcome to our GIS project website!!!!"
   },
   {
     "objectID": "about.html",
@@ -40,5 +40,26 @@
     "title": "Hello, Quarto",
     "section": "Meet Quartooooooobbb",
     "text": "Meet Quartooooooobbb\nQuarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "intro",
+    "section": "",
+    "text": "This is"
+  },
+  {
+    "objectID": "intro.html#project-tasks",
+    "href": "intro.html#project-tasks",
+    "title": "intro",
+    "section": "Project Tasks",
+    "text": "Project Tasks\nThe project tasks are as follows:\n\nto compile the necessary data\nto derive new data sets"
+  },
+  {
+    "objectID": "intro.html#the-data",
+    "href": "intro.html#the-data",
+    "title": "intro",
+    "section": "The data",
+    "text": "The data\nThe following data sets will be used:"
   }
 ]
