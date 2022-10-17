@@ -5,13 +5,13 @@ website:
   title: "hello_qgis"
   navbar:
     left:
-      - href: introduction.qmd
+      - href: intro.html
         text: Introduction
-      - href: Methdology.qmd
+      - href: Methdology.html
         text: Methdology
-      - href: analysis.qmd
+      - href: analysis.html
         text: Analysis
-      - href: finding.qmd
+      - href: finding.html
         text: Results & Discussion
         
     right: 
